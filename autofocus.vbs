@@ -1,4 +1,4 @@
-Dim cam
+Dim cam 
 Set cam = CreateObject("MaxIm.CCDCamera") 'create the application's CCDCamera object
 Dim app
 Set app = CreateObject("MaxIm.Application") ' Create a MaxIm DL Application Object
